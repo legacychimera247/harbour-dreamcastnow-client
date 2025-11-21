@@ -39,22 +39,22 @@
 <context>
     <name>FirstPage</name>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="27"/>
+        <location filename="../qml/pages/FirstPage.qml" line="29"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="31"/>
+        <location filename="../qml/pages/FirstPage.qml" line="33"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="35"/>
+        <location filename="../qml/pages/FirstPage.qml" line="37"/>
         <source>Refresh</source>
         <translation>Обновить</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/pages/FirstPage.qml" line="44"/>
+        <location filename="../qml/pages/FirstPage.qml" line="49"/>
         <source>%Ln online</source>
         <translation>
             <numerusform>%Ln в сети</numerusform>
@@ -63,12 +63,12 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="44"/>
+        <location filename="../qml/pages/FirstPage.qml" line="49"/>
         <source>Offline</source>
         <translation>Оффлайн</translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="140"/>
+        <location filename="../qml/pages/FirstPage.qml" line="145"/>
         <source>Played recently:</source>
         <translation>Недавно играл(-а) в:</translation>
     </message>

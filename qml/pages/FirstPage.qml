@@ -23,6 +23,8 @@ Page {
         model: usersModel
 
         PullDownMenu {
+            busy: appWindow.refreshing && !appWindow.loading
+
             MenuItem {
                 text: qsTr("About")
                 onClicked: pageStack.push("AboutPage.qml")
@@ -33,7 +35,10 @@ Page {
             }
             MenuItem {
                 text: qsTr("Refresh")
-                onClicked: appWindow.update()
+                onClicked: {
+                    appWindow.refreshing = true
+                    appWindow.update()
+                }
             }
         }
 

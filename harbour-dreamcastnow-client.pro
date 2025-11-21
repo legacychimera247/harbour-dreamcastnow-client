@@ -5,6 +5,7 @@ CONFIG += sailfishapp_qml
 DISTFILES += qml/harbour-dreamcastnow-client.qml \
     qml/cover/CoverPage.qml \
     qml/js/dom-parser.js \
+    qml/js/worker.js \
     qml/pages/AboutPage.qml \
     qml/pages/FirstPage.qml \
     qml/pages/SettingsPage.qml \

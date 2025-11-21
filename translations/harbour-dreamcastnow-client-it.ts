@@ -38,22 +38,22 @@
 <context>
     <name>FirstPage</name>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="27"/>
+        <location filename="../qml/pages/FirstPage.qml" line="29"/>
         <source>About</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="31"/>
+        <location filename="../qml/pages/FirstPage.qml" line="33"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="35"/>
+        <location filename="../qml/pages/FirstPage.qml" line="37"/>
         <source>Refresh</source>
         <translation>Ricarica</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/pages/FirstPage.qml" line="44"/>
+        <location filename="../qml/pages/FirstPage.qml" line="49"/>
         <source>%Ln online</source>
         <translation>
             <numerusform>%Ln in linea</numerusform>
@@ -61,12 +61,12 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="44"/>
+        <location filename="../qml/pages/FirstPage.qml" line="49"/>
         <source>Offline</source>
         <translation>Non in linea</translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="140"/>
+        <location filename="../qml/pages/FirstPage.qml" line="145"/>
         <source>Played recently:</source>
         <translation>Giocati recentemente:</translation>
     </message>
