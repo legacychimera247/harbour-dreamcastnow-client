@@ -19,6 +19,14 @@
         <source>This project is licensed under GNU GPL 3.0. Copyright (c) 2025 roundedrectangle</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CoverPage</name>

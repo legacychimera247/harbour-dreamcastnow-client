@@ -14,12 +14,22 @@
         <translation>GitHub</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="73"/>
+        <location filename="../qml/pages/AboutPage.qml" line="66"/>
+        <source>Translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="69"/>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="81"/>
         <source>This project uses a modified version of the dom-parser project, licensed under ISC.</source>
         <translation>Questo progetto usa una versione modificata del progetto dom parser, sotto licenza ISC.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="82"/>
+        <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <source>ISC License</source>
         <translation>Licenza ISC</translation>
     </message>

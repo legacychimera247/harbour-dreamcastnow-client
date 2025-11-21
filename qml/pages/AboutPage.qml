@@ -63,6 +63,14 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.'
                 }
 
 
+                SectionHeader { text: qsTr("Translations") }
+
+                DetailItem {
+                    label: qsTr("Italian")
+                    value: "legacychimera247"
+                }
+
+
                 SectionHeader { text: "dom-parser" }
 
                 Label {
