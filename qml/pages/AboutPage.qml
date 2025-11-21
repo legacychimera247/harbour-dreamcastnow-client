@@ -91,6 +91,9 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.'
                         onClicked: pageStack.push(licensePage, {title: text, content: domParserLicense})
                     }
                 }
+
+
+                Item {width: 1; height: Theme.paddingLarge}
             }
         }
 
