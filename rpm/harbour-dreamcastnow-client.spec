@@ -1,7 +1,7 @@
 Name:       harbour-dreamcastnow-client
 
 Summary:    Dreamcast Now viewer
-Version:    0.3
+Version:    1.0
 Release:    1
 License:    LICENSE
 BuildArch:  noarch
