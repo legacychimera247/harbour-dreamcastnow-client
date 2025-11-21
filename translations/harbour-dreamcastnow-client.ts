@@ -8,10 +8,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>GitHub</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>ISC License</source>
         <translation type="unfinished"></translation>
     </message>

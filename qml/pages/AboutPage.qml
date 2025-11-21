@@ -57,7 +57,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.'
 
                 ButtonLayout {
                     Button {
-                        text: qsTr("GitHub")
+                        text: "GitHub"
                         onClicked: Qt.openUrlExternally('https://github.com/roundedrectangle/harbour-dreamcastnow-client')
                     }
                 }

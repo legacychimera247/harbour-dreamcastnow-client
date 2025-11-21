@@ -9,19 +9,14 @@
         <translation>Этот проект имеет лицензию GNU GPL 3.0. Copyright (c) 2025 roundedrectangle</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="60"/>
-        <source>GitHub</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="66"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="69"/>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Итальянский</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="81"/>

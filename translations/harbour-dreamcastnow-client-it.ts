@@ -9,11 +9,6 @@
         <translation>Questo progetto è sotto licenza GNU-GPL 3.0. Copyright (c) 2025 roundedrectangle</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="60"/>
-        <source>GitHub</source>
-        <translation>GitHub</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="66"/>
         <source>Translations</source>
         <translation type="unfinished"></translation>
