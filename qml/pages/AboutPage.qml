@@ -2,6 +2,8 @@ import QtQuick 2.0
 import Sailfish.Silica 1.0
 
 Page {
+    allowedOrientations: Orientation.All
+
     property string domParserLicense: 'Copyright (c) 2015(s), Konstantin Ershov
 
 Permission to use, copy, modify, and/or distribute this software for any
